@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tempdelta/Desktop/temp_l/mlruns/0/99c14bf7c3884028bcc9cab97712eef2/artifacts
+end_time: 1705326518218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99c14bf7c3884028bcc9cab97712eef2
+run_name: trusting-slug-618
+run_uuid: 99c14bf7c3884028bcc9cab97712eef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705324583273
+status: 4
+tags: []
+user_id: tempdelta
