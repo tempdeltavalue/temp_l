@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tempdelta/Desktop/temp_l/mlruns/0/992b5fcb617647c5bd25cc2d7414cbcd/artifacts
+end_time: 1705928957121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 992b5fcb617647c5bd25cc2d7414cbcd
+run_name: fearless-loon-334
+run_uuid: 992b5fcb617647c5bd25cc2d7414cbcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705928883959
+status: 3
+tags: []
+user_id: tempdelta
