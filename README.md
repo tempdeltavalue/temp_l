@@ -4,5 +4,6 @@
 MLFlow dummy screenshot
 ![Screenshot 2024-01-15 154809](https://github.com/tempdeltavalue/temp_l/assets/36921178/fa7d4ece-85e3-48b3-9280-fd435054a34e)
 
-current issue:
+hf issues:
+https://discuss.huggingface.co/t/repetitive-words-in-model-output/132085
 https://discuss.huggingface.co/t/gpt2-returns-sequence-of-endoftext-after-finetuning/70418
