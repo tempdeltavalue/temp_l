@@ -12,6 +12,7 @@ device = 0 if torch.cuda.is_available() else -1
 hf = HuggingFacePipeline.from_model_id(
     model_id="microsoft/DialoGPT-medium",
     task="text-generation",
+
     device=device, pipeline_kwargs={"max_new_tokens": 200, "pad_token_id": 50256},
 )
 
