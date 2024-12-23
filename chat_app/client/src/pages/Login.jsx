@@ -18,10 +18,10 @@ const Login = () => {
                 <Button variant="primary" type="submit">
                     Login
                 </Button>
-
+{/* 
                 <Alert variant="danger">
                     <p>An error occured</p>
-                </Alert>
+                </Alert> */}
 
                 </Stack>
             </Col>
