@@ -1,6 +1,6 @@
-llama-index==0.8.5.post2
+# llama-index # ==0.8.5.post2
 transformers
-sentence-transformers==2.2.2
+sentence-transformers # ==2.2.2
 scikit-learn
 streamlit
 sentencepiece # Required by some Hugging Face models \
