@@ -1,6 +1,7 @@
 # llama-index # ==0.8.5.post2
-transformers
+transformers == 4.51.3
 sentence-transformers # ==2.2.2
 scikit-learn
 streamlit
 accelerate # For faster model loading and inference, especially on GPUs}
+
