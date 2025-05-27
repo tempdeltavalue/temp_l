@@ -1,3 +1,14 @@
+
+Split a text into topics, name them, and generate questions.
+
+
+https://tempdoc.streamlit.app
+
+
+https://colab.research.google.com/drive/1f_DJ4cMDILZm-Fh7aR4ZWBX4ez1cjkZ9?usp=sharing
+
+
+
 ![streamlit_chat_app-GoogleChrome2024-12-1215-20-04-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e76b8c5d-dd6d-4e03-bb93-4ebcecafe8e1)
 
 
