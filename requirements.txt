@@ -1,3 +1,7 @@
 llama-index==0.8.5.post2
+transformers
 sentence-transformers==2.2.2
+scikit-learn
 streamlit
+sentencepiece # Required by some Hugging Face models \
+accelerate # For faster model loading and inference, especially on GPUs}
